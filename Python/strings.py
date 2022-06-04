@@ -1,6 +1,3 @@
-from tkinter import Variable
-
-
 print("Double Quote")  # Double Quotes are used to contain strings
 
 print('Single Quote')  # Single Quotes are used to contain strings
