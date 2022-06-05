@@ -27,3 +27,22 @@ print(Story[0:10:2])
 
 # Prints the first 10 characters of the variable, skipping every fifth character
 print(Story[0:10:5])
+
+# Prints the string backwords.
+print(Story[::-1])
+
+# Play
+
+meow = "moew fr"
+cat = 5
+kitty = 5.1
+
+print(meow)
+
+print(meow[0:8:2])
+
+print("I like %s and %s" % (meow, Story))
+
+print("The Number %i is cute" % (cat))
+
+print("kity %f" % (kitty))
