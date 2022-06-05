@@ -19,3 +19,11 @@ print(Story[-1])  # Prints the last character of the variable
 print((Story[0:5]))  # Prints the first 5 characters of the variable
 
 print(id(Story))  # Prints the memory address of the variable
+
+print(id(Variable))  # Prints the memory address of the variable
+
+# Prints the first 10 characters of the variable, skipping every other character
+print(Story[0:10:2])
+
+# Prints the first 10 characters of the variable, skipping every fifth character
+print(Story[0:10:5])
