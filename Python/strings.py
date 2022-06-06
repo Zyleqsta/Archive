@@ -46,3 +46,7 @@ print("I like %s and %s" % (meow, Story))
 print("The Number %i is cute" % (cat))
 
 print("kity %f" % (kitty))
+
+print("cute man fr fr I LOVE MUSIC ONG ONG %i for real that number go hard but not as hard as %f or %s" % (cat, kitty, meow))
+
+print("I wonder if I can use the same thingy in a print thingy!!!!!!  lets check fr and number 1 %s and number 2 %s and number 3 %i and number 4 %i" % (meow, meow, cat, cat))
